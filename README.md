@@ -1,6 +1,8 @@
 # Reverb
 Reverb is a rhythm-tapping, audio-visualizing game with your own imported music and window-shaking animations that play along with the beat.
 
+Video demonstration: https://www.youtube.com/watch?v=O4jqRHnBuZI
+
 INSTALLATION/USAGE:
 - Install HomeBrew (macOS) at https://brew.sh/
 - Open a Python terminal (or IDLE) and run the following commands:
